@@ -6,11 +6,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1tou/kanbas-node-server-app.git"
+    "url": "git+https://github.com/northeastern-xujiangz/kanbas-node-server-app.git"
   },
   "keywords": [
     "Node",
@@ -24,9 +24,9 @@
   "author": "Shengmin Chen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1tou/kanbas-node-server-app/issues"
+    "url": "https://github.com/northeastern-xujiangz/kanbas-node-server-app/issues"
   },
-  "homepage": "https://github.com/1tou/kanbas-node-server-app#readme",
+  "homepage": "https://github.com/northeastern-xujiangz/kanbas-node-server-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
